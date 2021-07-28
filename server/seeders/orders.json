@@ -1,0 +1,14 @@
+[
+    {
+        "purchaseDate": "Date.now",
+        "products": [
+                "thisisanid", "anotherid"
+        ],
+        "shippingInfo": {
+            "address": "28 Breezy Hill Drive",
+            "city": "Fort Salonga",
+            "state": "New York",
+            "zip": "11768"
+        }
+    }
+]
